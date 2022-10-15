@@ -128,17 +128,6 @@ div.static {
 }
 
 
-/* sticky position*/
-
-div.sticky {
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-    padding: 5px;
-    border: 2px solid #4CAF50;
-}
-
-
 /* box for Montreal lyrics*/
 
 .box{
